@@ -1,6 +1,6 @@
 # Doodle App - IA08 Technical I
 
-**Course:** IA08 Mobile Development
+**Course:** CISC682 Introduction to Human-Computer Interaction
 **Date:** Fall 2025
 **Language:** Kotlin
 **Framework:** Jetpack Compose
