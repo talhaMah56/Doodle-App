@@ -1,9 +1,3 @@
-Here is a clean, professional `README.md` file tailored to your project and the assignment requirements.
-
-You can copy and paste the raw code below directly into your GitHub repository's README file.
-
------
-
 # Doodle App - IA08 Technical I
 
 **Course:** IA08 Mobile Development
